@@ -44,8 +44,7 @@
     height: 10vh;
   }
   .nav-links {
-    display: flex;
-    visibility: hidden;
+    display: none;
     flex-direction: column;
     position: absolute;
     top: 10vh;
